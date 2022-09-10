@@ -7,3 +7,9 @@ This will scan the wallet claim times for a user in genopets (to count accuratel
 ```
 pip install solana
 ```
+
+## Returns
+
+```
+total harvest:22
+```
