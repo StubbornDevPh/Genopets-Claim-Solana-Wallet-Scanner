@@ -1,4 +1,4 @@
-# Solana chain scanner
+# Genopet Wallet Scanner
 
 This will scan the wallet claim times for a user in genopets (to count accurately)
 
